@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/artichoke/Artichoke/tdsg/physics/build/cmake_install.cmake",
+		"/home/artichoke/Artichoke/tdsg/physics/build/third_party/glm/cmake_install.cmake",
+		"/home/artichoke/Artichoke/tdsg/physics/build/third_party/glm/glm/cmake_install.cmake",
+		"/home/artichoke/Artichoke/tdsg/physics/build/third_party/raylib/cmake_install.cmake",
+		"/home/artichoke/Artichoke/tdsg/physics/build/third_party/raylib/raylib/cmake_install.cmake",
+		"/home/artichoke/Artichoke/tdsg/physics/build/third_party/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/home/artichoke/Artichoke/tdsg/physics/build/third_party/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

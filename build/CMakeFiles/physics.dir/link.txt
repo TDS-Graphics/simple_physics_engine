@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/physics.dir/link.d CMakeFiles/physics.dir/src/main.cpp.o -o physics  third_party/glm/glm/libglm.a third_party/raylib/raylib/libraylib.a -lpthread /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/librt.a -lm -ldl -lm /usr/lib/libSM.so /usr/lib/libICE.so /usr/lib/libX11.so /usr/lib/libXext.so
