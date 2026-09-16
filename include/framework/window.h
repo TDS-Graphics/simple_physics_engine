@@ -8,6 +8,7 @@ class Window{
         height_(height),
         name_(name)
         {
+            SetConfigFlags(FLAG_MSAA_4X_HINT);
             InitWindow(width_, height_, name.c_str());
             SetTargetFPS(60);
         }
