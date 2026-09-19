@@ -8,7 +8,7 @@ class Window{
         height_(height),
         name_(name)
         {
-            SetConfigFlags(FLAG_MSAA_4X_HINT);
+            SetConfigFlags(FLAG_MSAA_4X_HINT | FLAG_WINDOW_RESIZABLE);
             InitWindow(width_, height_, name.c_str());
             SetTargetFPS(60);
         }
