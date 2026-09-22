@@ -24,7 +24,7 @@ target_include_directories(rlImGui PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/third_part
 target_link_libraries(rlImGui PUBLIC imgui raylib)
 
 add_library(framework INTERFACE)
-target_include_directories(framework INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_include_directories(framework INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}/samples)
 target_link_libraries(framework INTERFACE glm raylib rlImGui)
 
 add_subdirectory(samples)
