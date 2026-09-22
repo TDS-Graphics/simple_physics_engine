@@ -2,7 +2,7 @@
 
 ## Introduction
 
-这是 TDSG 开设的基础物理模拟入门课程所使用的代码框架，其中包含课程项目的完整实现 [main](https://github.com/TDS-Graphics/simple_physics_engine/tree/main) 分支，以及每个章独立的分支，所以你尽管你实现的代码和我们的不同也可以随时切换分支以同步我们的代码 ，或者你可以按照自己在课程中学习到的物理引擎核心算法思想自己实现。  
+这是 TDSG 开设的基础物理模拟入门课程所使用的代码框架，其中包含课程项目的完整实现 [main](https://github.com/TDS-Graphics/simple_physics_engine/tree/main) 分支，以及每个章独立的分支，所以尽管你实现的代码和我们的不同也可以随时切换分支以同步我们的代码 ，或者你可以按照自己在课程中学习到的物理引擎核心算法思想自己实现。  
 
 ## Quick Start
 Step 1: Clone 本仓库并安装依赖：
@@ -26,5 +26,5 @@ cmake --build build
 
 ## About
 
-我们采用了和 (TDSG-Raster-Lab)[https://github.com/TDS-Graphics/TDSG-Raster-Lab] 同样的开源证书 GPL v3.0
+我们采用了和 [TDSG-Raster-Lab](https://github.com/TDS-Graphics/TDSG-Raster-Lab) 同样的开源证书 GPL v3.0
 
